@@ -41,5 +41,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon1123&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-#### 열심히 해야겠지 !
-[![GitHub Streak](https://streak-stats.demolab.com?user=seoyeon1123&theme=highcontrast&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
