@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/s___yexn" target="_blank">
+<a href="https://www.instagram.com/3_300_s" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
